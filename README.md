@@ -1,4 +1,4 @@
-# Week2andweek4
+# Week 2 and week 3
 This repo is for week2 and week for revison codes
  # We cover week 2 and week 3 topics such as 
 
